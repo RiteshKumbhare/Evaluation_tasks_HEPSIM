@@ -1,4 +1,5 @@
 # HEPSIM Submission - Evaluator Guide
+## This repo is my submission for "HEPSIM : Jet Observable Library for Monte Carlo Validation"
 
 This guide explains how to run and evaluate the notebook:
 - `hepsim_submission.ipynb`
